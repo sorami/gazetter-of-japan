@@ -1,4 +1,4 @@
-# Gazetteer of Japan / 地名集日本
+# Gazetteer of Japan (地名集日本)
 
 Japanese place name dictionary, in CSV and JSON formats.
 
