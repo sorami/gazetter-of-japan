@@ -2,6 +2,8 @@
 
 Japanese place name dictionary, in CSV and JSON formats.
 
+**Interactive visualization: [Gazetteer of Japan (地名集日本) / Sorami Hisamoto | Observable](https://observablehq.com/@sorami/gazetteer-of-japan)**
+
 Originally compiled by Geospatial Information Authority of Japan (GSI): [地名集日本（GAZETTEER OF JAPAN) | 国土地理院](https://www.gsi.go.jp/kihonjohochousa/gazetteer.html) (PDF, retrieved 2022-12-22).
 
 This repository is not affiliated with GSI.
