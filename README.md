@@ -1,5 +1,7 @@
 # Gazetteer of Japan (地名集日本)
 
+[日本語解説記事](https://qiita.com/sorami/items/804dcaa90091f3f3445b) (Commentary article in Japansese)
+
 Japanese place name dictionary, in CSV and JSON formats.
 
 **Interactive visualization: [Gazetteer of Japan (地名集日本) / Sorami Hisamoto | Observable](https://observablehq.com/@sorami/gazetteer-of-japan)**
