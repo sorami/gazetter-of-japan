@@ -46,14 +46,13 @@ kanji,kana,roman,lat,lng,class
 ```json
 [
   {
-    "kanji":"網走川",
-    "kana":"あばしりがわ",
-    "roman":"Abashiri Gawa",
-    "lat":44.017,
-    "lng":144.283,
-    "class":"River"
-  },
-  ...
+    "kanji": "網走川",
+    "kana": "あばしりがわ",
+    "roman": "Abashiri Gawa",
+    "lat": 44.017,
+    "lng": 144.283,
+    "class": "River"
+  }
 ]
 ```
 
